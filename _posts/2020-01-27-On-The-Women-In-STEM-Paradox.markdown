@@ -85,7 +85,7 @@ How "feminist" a society is does not depend on one thing. It depends on a lot of
 
 PART 2:
 
-These richer countries would’ve had rich, educated women that would’ve brought up their children more equally. Why isn’t that upbringing sending more boys into arts and “girly” fields , and more girls into STEM even though the kid are presumably being encouraged to do as they desire without many gender constraints. These countries have a lot less of “Jess, you’re gonna make a man happy one day and devote your time to raise his kids for a happy life” rhetoric and a lot more of the “Jess, you can kick ass and do whatever you want, girl” rhetoric. This means that kids in these countries are having less of a pressure to prefer certain jobs and their passion for a career choice is more natural.
+>These richer countries would’ve had rich, educated women that would’ve brought up their children more equally. Why isn’t that upbringing sending more boys into arts and “girly” fields , and more girls into STEM even though the kid are presumably being encouraged to do as they desire without many gender constraints. These countries have a lot less of “Jess, you’re gonna make a man happy one day and devote your time to raise his kids for a happy life” rhetoric and a lot more of the “Jess, you can kick ass and do whatever you want, girl” rhetoric. This means that kids in these countries are having less of a pressure to prefer certain jobs and their passion for a career choice is more natural.
 
 This is also unidimensional.
 
@@ -111,7 +111,7 @@ Because the 15 minutes with that one female engineer at a fair one weekend does 
 
 Passion does not occur in a vacuum. And the society that encourages you to do what you're GOOD AT and not what you're "passionate about" (like Venezuela, like Iran) is one that is less susceptible to "women being more passionate about xyz", which is really code for "women having spent the vast majority of their sapient lives having xyz-like behaviours rewarded and non-xyz-like behaviours dismissed or punished". I "did what I was passionate about". And if I had lived a slightly different life in a different "more sexist" society, I would have ALSO done "what I was passionate about" and that what would have been math, not philosophy or psychology.
 
-Cuz here’s the thing about your point about SAHMs. In that example, its almost assumed that men are rich and their wives seem to be dependent on them. That used to happen back in the days but isn’t the case anymore because, like I mentioned, the wealth discrepancy between men and women is a lot lower in these places. This means that women CAN and ARE making their own choices.
+>Cuz here’s the thing about your point about SAHMs. In that example, its almost assumed that men are rich and their wives seem to be dependent on them. That used to happen back in the days but isn’t the case anymore because, like I mentioned, the wealth discrepancy between men and women is a lot lower in these places. This means that women CAN and ARE making their own choices.
 
 Again with "their choices". Choices are not made in a vacuum. If person A wants to work and person B wants to work, and one has to stay with the child, the question of "which one is it?" is going to depend on a.) who makes the most money, b.) whose career "can take the hit" more, c.) who is better at caring for the child, and more.
 
@@ -119,13 +119,11 @@ This isn't a situation where the woman gets a veto. This is a situation where tw
 
 Your whole interpretation of this just seems fairly unidimensional. Society, and people, are more complicated than "gets a free choice" vs "doesn't get a free choice".
 
-Why isn’t there a huge resurgence of SAHDs (I’m guessing there isn’t) in these countries where financial problems aren’t as common?
+>Why isn’t there a huge resurgence of SAHDs (I’m guessing there isn’t) in these countries where financial problems aren’t as common?
 
 I'm kind of confused by this question. No, it's not a huge resurgence, it's just... my point was that if you can't afford them, you won't have them. Not that if you can afford them (as a society) you will have a large quantity of them. This is more about the ways in which sexism becomes less feasible to enforce when you need everyone to carry their weight in a sufficiently poor society.
 
-PART 3:
-
-Yes the “payoff” might not be as high for these women as it is for a Irani woman, but a lot of people choose their career based on their passion. If these women were passionate about STEM, they’d pursue it because the barriers they face are a lot less even if it’s still a boys club. Isn’t following your interests and passion enough of a payoff to go into STEM fields considering there really isn’t that many barriers compared to the ones women face in poorer countries. Also, a lot of the men in these countries are presumably less sexist because they’ve been brought up in a more equal society. So why would it be such an issue for a woman to work in a male dominated field?
+>Yes the “payoff” might not be as high for these women as it is for a Irani woman, but a lot of people choose their career based on their passion. If these women were passionate about STEM, they’d pursue it because the barriers they face are a lot less even if it’s still a boys club. Isn’t following your interests and passion enough of a payoff to go into STEM fields considering there really isn’t that many barriers compared to the ones women face in poorer countries. Also, a lot of the men in these countries are presumably less sexist because they’ve been brought up in a more equal society. So why would it be such an issue for a woman to work in a male dominated field?
 
 I think that I already addressed this in my whole ramble about passions. Namely: Passions don't occur in a vacuum, they're not a magical letters in secret envelopes inside your heart that you open just before you declare a major in university. Passions are GROWN, when you practice doing something a lot, when you enjoy it, and when you get positive feedback from those around you.
 
