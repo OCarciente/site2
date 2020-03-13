@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+order: 2
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a person.
 
-You can find the source code for Prologue at GitHub:
-[jekyll][jekyll-organization] /
-[prologue](https://github.com/chrisbobbe/jekyll-theme-prologue)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I write stuff.
